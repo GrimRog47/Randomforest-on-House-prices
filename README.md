@@ -116,5 +116,5 @@ This project is open-source and available under the MIT License.
 ---
 
 ## 👤 Author
-**Zain**  
+**Zain Ul Abideen**  
 MPhil Statistics | Data Science & Machine Learning Enthusiast
